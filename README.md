@@ -1,2 +1,3 @@
-# Algoritimos
-Universidade
+# Universidade
+
+Codigos desenvolvidos durante a faculdade
